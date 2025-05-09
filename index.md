@@ -2,7 +2,7 @@
 title: Welcome to my page
 ---
 
-<img align = "right" src="_images/Subject.png"
+<img align = "right" src="docs/assets/images/Subject.png/"
      alt="Jiayi's Profile" 
      style="width:50%; max-width:600px; display:block; margin:20px auto;">
 
