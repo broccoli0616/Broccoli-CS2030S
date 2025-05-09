@@ -6,7 +6,11 @@ title: Welcome to my page
      alt="Jiayi's Profile" 
      style="width:50%; max-width:600px; display:block; margin:20px auto;"> */ -->
      
-![Jiayi](https://raw.githubusercontent.com/broccoli0616/Zhang-Jiayi-page/main/docs/assets/images/Subject.png)
+<!--![Jiayi](https://raw.githubusercontent.com/broccoli0616/Zhang-Jiayi-page/main/docs/assets/images/Subject.png) -->
+
+<img src="https://raw.githubusercontent.com/broccoli0616/Zhang-Jiayi-page/main/docs/assets/images/Subject.png" 
+     alt="Jiayi" 
+     style="width: 300px; float: right; margin: 20px; border-radius: 10px;">
 
 **Hello Hello Hello!**  
 
