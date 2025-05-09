@@ -1,8 +1,8 @@
 ---
-title: Welcome to my blog
+title: Welcome to my page
 ---
 
-**Hello hello hello!**  
+**Hello Hello Hello!**  
 
 My name is **Jiayi**.  
 
