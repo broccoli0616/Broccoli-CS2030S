@@ -4,26 +4,18 @@ title: "a few things about me"
 date: 2025-5-9
 ---
 
-
 ## 🎓 Education  
 - **Bachelor of Computing (Computer Science)**  
   - National University of Singapore (NUS) | Year 2  
 - **Second Major** in Management  
 
 ## 💡 My CS Inspiration  
-During my work experience at **TTSH Geriatric Ward**, I witnessed:  
-- 🏥 **Advanced medical computing systems** for precise patient tracking  
-- 🤖 The critical need for better **fall-detection sensors** (as highlighted by a senior nurse)  
-- 💭 Her challenge to us: *"Can you improve these tech solutions?"*  
-
-Though I haven’t found the perfect solution yet, this experience:  
-✅ Sparked my passion for **AI in healthcare**  
-✅ Motivated me to explore **CS solutions for ageing populations**  
+When I was posted to a geriatric ward during my work experience programme at TTSH, I was surprised by the advancement of computing techniques used in the medical field to ensure a clear and effective record and tracking of a patient’s medical condition. Besides this, a senior expressed her hope that we, as JC students, can suggest better ideas to improve the accuracy and effectiveness of technological installations like fall sensors, especially geriatric wards where extra  care by nurse and doctor is expected to meet the special request of patients. Although so far, I have not come up with a very clear idea about the improvement, I feel encouraged and motivated to explore areas of computer science and Artificial Intelligence that can make a difference in the coming ageing society.
 
 ## 💻 Interested in 
 - Building elegant solutions through code  
 - Developing **health-tech prototypes** for elderly care  
-- Full-stack tinkerer  
+- Developing **business-solution** through AI and information system
 
 
 
