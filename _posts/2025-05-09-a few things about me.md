@@ -1,9 +1,4 @@
 
----
-title: "a few things about me"
-date: 2025-5-9
----
-
 ## 🎓 Education  
 - **Bachelor of Computing (Computer Science)**  
   - National University of Singapore (NUS) | Year 2  
