@@ -1,7 +1,10 @@
 ---
 title: Welcome to my page
 ---
-<img align="right" src="./_images/Subject.png" alt="Jiayi GuiFei" width="250" style="margin-left: 20px;">
+
+<img align = "right" src="/_images/compressed_Subject.png" 
+     alt="Jiayi's Profile" 
+     style="width:50%; max-width:600px; display:block; margin:20px auto;">
 
 
 **Hello Hello Hello!**  
