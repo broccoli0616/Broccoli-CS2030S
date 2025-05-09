@@ -5,3 +5,9 @@ description: |
   Feel free to reach out to me.
   Telegram: @solar016
   Gmail: jiayizhang662@gmail.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image_path: /_images/Subject.png/
